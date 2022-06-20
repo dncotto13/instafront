@@ -1,0 +1,27 @@
+.posts {
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+
+}
+
+.imgpost {
+    margin-top: 20px;
+    border: 1px solid #d0d0d0;
+}
+
+.ptext {
+    list-style-type: none;
+}
+
+li {
+    list-style: none;
+    border: 2px solid #3c6c94;
+    margin: 80px;
+    border-radius: 3%;
+}
