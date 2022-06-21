@@ -56,7 +56,7 @@ export const Register = () => {
           required
           onChange={(e) => setSurname(e.target.value)}
         />
-                <label htmlFor="age">Edad</label>
+                <label htmlFor="age">Fecha de nacimiento</label>
         <input
           className="registerinput"
           name="age"
